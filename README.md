@@ -14,5 +14,6 @@ I agree with Chris that I hate using macros in SystemVerilog.  I really like his
 
 Command Line for Mentor Questa
 ```
+vlib work
 time vsim -64 -do run.do
 ```
